@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### How did I push this code
+Syntax: git push -u <remote> <branch>
+Function: When you push a branch with the -u option, Git sets up your branch to track the remote branch. This means that Git links your local branch to a corresponding remote branch. Once this link is established, you can reference the remote branch more easily in future commands.
